@@ -15,7 +15,7 @@
         <cucumber.version>4.7.2</cucumber.version>
         <maven.compiler.version>3.3</maven.compiler.version>
         <selenium.version>3.141.59</selenium.version>
-        <webdrivermanager.version>3.7.1</webdrivermanager.version>
+        <webdrivermanager.version>6.1.0</webdrivermanager.version>
     </properties>
 
     <dependencies>
